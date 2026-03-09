@@ -1,0 +1,9 @@
+.venv/
+data/
+*.csv
+!submission.csv
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+CLAUDE.md
+/.claude
