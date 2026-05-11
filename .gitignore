@@ -1,5 +1,6 @@
 .venv/
 data/
+mnist_data/
 *.csv
 !submission.csv
 .DS_Store
