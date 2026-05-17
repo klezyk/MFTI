@@ -11,3 +11,4 @@ CLAUDE.md
 .vscode/
 .workspace/
 catboost_info/
+**/review/*.ipynb
